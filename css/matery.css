@@ -244,9 +244,9 @@ mark {
     background-image: linear-gradient(to right, #99CCFF 0%, #CCCCFF 100%);
 }
 
-.text-color {
-    /* color: #0f9d58 !important; */
-}
+/* .text-color {
+    color: #0f9d58 !important;
+} */
 
 .white-color {
     color: #fff;
@@ -2024,8 +2024,8 @@ footer .copy-right {
 
 /*二级菜单*/
 
-.nav-menu {
-}
+/* .nav-menu {
+} */
 
 .nav-menu li .sub-nav {
     position: absolute;
